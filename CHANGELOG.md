@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.102.0](https://www.github.com/googleapis/java-datastore/compare/v1.101.4...v1.102.0) (2020-05-12)
+
+
+### Features
+
+* add flatten plugin to client and proto modules ([#108](https://www.github.com/googleapis/java-datastore/issues/108)) ([fb3566d](https://www.github.com/googleapis/java-datastore/commit/fb3566d31600b9ed629a2daa46c5202a894181b2))
+* Create CODEOWNERS ([#122](https://www.github.com/googleapis/java-datastore/issues/122)) ([8082369](https://www.github.com/googleapis/java-datastore/commit/80823698416bbe08e2d22fbc81ec3709ad2552c8))
+
+
+### Dependencies
+
+* update core transport dependencies to v1.35.0 ([#114](https://www.github.com/googleapis/java-datastore/issues/114)) ([cad3bfb](https://www.github.com/googleapis/java-datastore/commit/cad3bfbbe739ab3ed5ebea89bee620ef8bbefd95))
+* update dependency com.google.api.grpc:proto-google-common-protos to v1.18.0 ([#117](https://www.github.com/googleapis/java-datastore/issues/117)) ([b484256](https://www.github.com/googleapis/java-datastore/commit/b484256c30ac9117eb82688c801966b6ace856df))
+* update dependency com.google.guava:guava-bom to v29 ([#95](https://www.github.com/googleapis/java-datastore/issues/95)) ([32d5e37](https://www.github.com/googleapis/java-datastore/commit/32d5e37f244969ba980cd94a8eaa8165b368ebc6))
+* update dependency io.grpc:grpc-bom to v1.29.0 ([#110](https://www.github.com/googleapis/java-datastore/issues/110)) ([ad6b880](https://www.github.com/googleapis/java-datastore/commit/ad6b8803d4cd55fa37ba57fd3edafad256c41aed))
+* update dependency org.threeten:threetenbp to v1.4.4 ([#112](https://www.github.com/googleapis/java-datastore/issues/112)) ([41d571d](https://www.github.com/googleapis/java-datastore/commit/41d571d1e18f1400f7975a6e82646417ed39ee84))
+
 ### [1.101.4](https://www.github.com/googleapis/java-datastore/compare/v1.101.3...v1.101.4) (2020-04-08)
 
 
